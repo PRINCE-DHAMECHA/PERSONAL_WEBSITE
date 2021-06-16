@@ -442,10 +442,7 @@ p,li{
         position: relative;
     }
     .navbar .nav-items{
-        opacity: 1;
-        position: absolute;
-        top: -100%;
-        left: -100%;
+        display:none;
     }
     .header-content .main-heading
     {
@@ -516,10 +513,7 @@ p,li{
         position: relative;
     }
     .navbar .nav-items{
-        opacity: 1;
-        position: absolute;
-        top: -100%;
-        left: -100%;
+        display:none;
     }
     .header-content .main-heading
     {
