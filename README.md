@@ -1,1 +1,1 @@
-https://prince-dhamecha.github.io/PERSONAL-WEBSITE/
+https://prince-dhamecha.github.io/PERSONAL_WEBSITE/
